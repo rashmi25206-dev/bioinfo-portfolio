@@ -1,0 +1,5 @@
+.DS_Store
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
